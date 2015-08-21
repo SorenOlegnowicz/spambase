@@ -2,26 +2,9 @@
 
 ## Description
 
-Use the Spambase dataset to classify spam. This data is already parsed down from email to features.
+Uses simple Baysian analysis to classify spam from the Spambase dataset. This data is already parsed down from email to features.
 
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should understand:
-
-* Simple Bayesian analysis
-* The importance of separating training and test data
-
-### Performance Objectives
-
-After completing this assignment, you should be able to:
-
-* Create a Bayesian classifier
-* Train your classifier
-* Test your classifier
-
-## Details
+## Assignment Details
 
 ### Deliverables
 
